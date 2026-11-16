@@ -1,3 +1,4 @@
 1. One important thing to learn as a beginner is to take things slowly, at a pace that is convenient
 2. It is important to learn a concept at a time if you must experience steady growth. For example, after already using Github for over a year, I decided to learn the concept of Git and Github from the very basis and it has been very rewarding.
 So far, I have learnt the difference between Git and Github; a version control and the web version where you can do a lot of "Git" operations
+My tutor on Youtube is doing amazing job. He just thought me what branching means and I am practicing it right away
