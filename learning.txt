@@ -3,3 +3,4 @@
 So far, I have learnt the difference between Git and Github; a version control and the web version where you can do a lot of "Git" operations
 My tutor on Youtube is doing amazing job. He just thought me what branching means and I am practicing it right away
 The first branch I created was not all that perfect but I guess that's how we learn
+I'm learning a lot because what I could not understand the first time is now very clear thought
